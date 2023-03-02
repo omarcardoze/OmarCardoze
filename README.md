@@ -1,7 +1,9 @@
 
-### <div align="center">👨‍💻 I'm Omar, a frontend developer from Panama 🚀</div>  
+### <div align="left">👨‍💻 Hi, I'm Omar! a frontend developer based in Panama 🚀</div>  
   
-<div align="center">🌱 I’m currently learning Javascript and React  </div>
+<div align="left">🌱 🌱 At the moment, I'm immersing myself in the world of Javascript and React to broaden my skills and stay on the cutting edge of web development.
+
+Feel free to browse my GitHub and check out some of my projects. If you have any questions or just want to chat, don't hesitate to reach out!</div>
 
 <br/>  
 
